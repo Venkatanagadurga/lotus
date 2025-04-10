@@ -14,7 +14,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.3,
     price: 200,
-    img: 'images/kabab.jpg',
+    img: 'images/Kabab.jpg',
     quantity: 1
 },
 {
