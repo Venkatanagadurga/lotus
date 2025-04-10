@@ -717,7 +717,7 @@ const foodItem= [
     category : 'chinese',
     rating : 4.3,
     price: 180,
-    img: 'baby corn 65.jpg',
+    img: 'baby65.jpg',
     quantity: 1
 },
 {
@@ -726,7 +726,7 @@ const foodItem= [
     category : 'chinese',
     rating : 4.3,
     price: 180,
-    img: 'baby corn manchuria.jpg',
+    img: 'baby mancha.jpg',
     quantity: 1
 },
 {
@@ -837,7 +837,7 @@ const foodItem= [
     category : 'south indian',
     rating : 4.3,
     price: 180,
-    img: 'alu.jpg',
+    img: 'aloo.jpg',
     quantity: 1
 },
 {

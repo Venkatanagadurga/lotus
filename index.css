@@ -4,18 +4,14 @@
 
 html{
     height: 100%;
-
 }
-  body{
-    
+body{
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
     height: 100%;
-    
-    
 }
-
 .container{
     display: grid;
     grid-template-columns: 250px 1fr 300px;
@@ -25,8 +21,6 @@ html{
 }
 #menu{
     background: whitesmoke;
-   
-
 }
 .title{
     padding: 0 30px;
@@ -152,12 +146,12 @@ html{
     font-family: 'Aclonica', sans-serif;
 }
 #item-card{
-    width: 200px;
-    height: 235px;
-    padding: 15px;
-    margin: 5px;
+    width: 180px;
+    height: 240px;
+    padding: 10px;
+    margin: 10px;
     display: inline-block;
-    border-radius: 10px;
+    border-radius: 5px;
     background: rgb(253, 221, 226);
     cursor: pointer;
     transition: 0.5s all step-end;
@@ -502,7 +496,7 @@ color: white;
         padding: 5px 10px;
         margin: 0;
         border:  1px solid lightcoral;
-    
+        float: right;
     }
     .cart-btn{
         font-size: 14px;
