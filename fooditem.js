@@ -14,7 +14,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.3,
     price: 200,
-    img: 'Kabab.jpg',
+    img: 'images/Kabab.jpg',
     quantity: 1
 },
 {
@@ -23,7 +23,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.3,
     price: 100,
-    img: 'egg.jpg',
+    img: 'images/egg.jpg',
     quantity: 1
 },
 {
@@ -32,7 +32,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.3,
     price: 150,
-    img: 'Lotus.jpg',
+    img: 'images/Lotus.jpg',
     quantity: 1
 },
 {
@@ -41,7 +41,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.3,
     price: 180,
-    img: 'fry.jpg',
+    img: 'images/fry.jpg',
     quantity: 1
 },
 {
@@ -50,7 +50,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.3,
     price: 240,
-    img: 'joint.jpg',
+    img: 'images/joint.jpg',
     quantity: 1
 },
 {
@@ -59,7 +59,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.3,
     price: 220,
-    img: 'mu.jpg',
+    img: 'images/mu.jpg',
     quantity: 1
 },
 {
@@ -68,7 +68,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.3,
     price: 200,
-    img: 'rambo.jpg',
+    img: 'images/rambo.jpg',
     quantity: 1
 },
 {
@@ -77,7 +77,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.3,
     price: 240,
-    img: 'Natu.jpg',
+    img: 'images/Natu.jpg',
     quantity: 1
 },
 
@@ -87,7 +87,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.3,
     price: 300,
-    img: 'mutton dum.jpg',
+    img: 'images/mutton dum.jpg',
     quantity: 1
 },
 {
@@ -96,7 +96,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.3,
     price: 320,
-    img: 'mug.jpg',
+    img: 'images/mug.jpg',
     quantity: 1
 },
 {
@@ -105,7 +105,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.3,
     price: 300,
-    img: 'kheema.jpg',
+    img: 'images/kheema.jpg',
     quantity: 1
 },
 {
@@ -114,7 +114,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.3,
     price: 180,
-    img: 'fish.jpg',
+    img: 'images/fish.jpg',
     quantity: 1
 },
 {
@@ -123,7 +123,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.3,
     price: 200,
-    img: 'Prawns.jpg',
+    img: 'images/Prawns.jpg',
     quantity: 1
 },
 
@@ -133,7 +133,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.3,
     price: 250,
-    img: 'kamju.jpg',
+    img: 'images/kamju.jpg',
     quantity: 1
 },
 {
@@ -142,7 +142,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.3,
     price: 450,
-    img: 'family.jpg',
+    img: 'images/family.jpg',
     quantity: 1
 },
 
@@ -152,7 +152,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 210,
-    img: 'butter chicken.jpg',
+    img: 'images/butter chicken.jpg',
     quantity: 1
 },
 {
@@ -161,7 +161,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 210,
-    img: 'kadai.jpg',
+    img: 'images/kadai.jpg',
     quantity: 1
 },
 {
@@ -170,7 +170,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 210,
-    img: 'Raya.jpg',
+    img: 'images/Raya.jpg',
     quantity: 1
 },
 {
@@ -179,7 +179,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 210,
-    img: 'punjabi.jpg',
+    img: 'images/punjabi.jpg',
     quantity: 1
 },
 {
@@ -188,7 +188,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 220,
-    img: 'chicken.jpg',
+    img: 'images/chicken.jpg',
     quantity: 1
 },
 {
@@ -197,7 +197,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 190,
-    img: 'tel.jpg',
+    img: 'images/tel.jpg',
     quantity: 1
 },
 {
@@ -206,7 +206,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 220,
-    img: 'lotus curry.jpg',
+    img: 'images/lotus curry.jpg',
     quantity: 1
 },
 {
@@ -215,7 +215,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 180,
-    img: 'curry.jpg',
+    img: 'images/curry.jpg',
     quantity: 1
 },
 {
@@ -224,7 +224,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 250,
-    img: 'goat.jpg',
+    img: 'images/goat.jpg',
     quantity: 1
 },
 {
@@ -233,7 +233,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 220,
-    img: 'mutton curry.jpg',
+    img: 'images/mutton curry.jpg',
     quantity: 1
 },
 
@@ -243,7 +243,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 260,
-    img: 'mutton mug curry.jpg',
+    img: 'images/mutton mug curry.jpg',
     quantity: 1
 },
 
@@ -253,7 +253,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 200,
-    img: 'prawns curry.jpg',
+    img: 'images/prawns curry.jpg',
     quantity: 1
 },
 {
@@ -262,7 +262,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 200,
-    img: 'kadai prawn curry.jpg',
+    img: 'images/kadai prawn curry.jpg',
     quantity: 1
 },
 {
@@ -271,7 +271,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 200,
-    img: 'kolhapuri prawn.jpg',
+    img: 'images/kolhapuri prawn.jpg',
     quantity: 1
 },
 {
@@ -280,7 +280,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 180,
-    img: 'fish curry.jpg',
+    img: 'images/fish curry.jpg',
     quantity: 1
 },
 {
@@ -289,7 +289,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 180,
-    img: 'kadai fish.jpg',
+    img: 'images/kadai fish.jpg',
     quantity: 1
 },
 {
@@ -308,7 +308,7 @@ const foodItem= [
     category : 'paneer',
     rating : 4.3,
     price: 190,
-    img: 'Chicken 65.jpg',
+    img: 'images/Chicken 65.jpg',
     quantity: 1
 
 },
@@ -318,7 +318,7 @@ const foodItem= [
     category : 'paneer',
     rating : 4.3,
     price: 190,
-    img: 'Chicken chilli.jpg',
+    img: 'images/Chicken chilli.jpg',
     quantity: 1
 },
 {
@@ -327,7 +327,7 @@ const foodItem= [
     category : 'paneer',
     rating : 4.3,
     price: 190,
-    img: 'Chicken Manchuria.jpg',
+    img: 'images/Chicken Manchuria.jpg',
     quantity: 1
 
 },
@@ -337,7 +337,7 @@ const foodItem= [
     category : 'paneer',
     rating : 4.3,
     price: 200,
-    img: 'Lollipop.jpg',
+    img: 'images/Lollipop.jpg',
     quantity: 1
 
 },
@@ -347,7 +347,7 @@ const foodItem= [
     category : 'paneer',
     rating : 4.3,
     price: 200,
-    img: 'drum.jpg',
+    img: 'images/drum.jpg',
     quantity: 1
 },
 {
@@ -356,7 +356,7 @@ const foodItem= [
     category : 'paneer',
     rating : 4.3,
     price: 190,
-    img: 'chicken wings.jpg',
+    img: 'images/chicken wings.jpg',
     quantity: 1
 },
 {
@@ -366,7 +366,7 @@ const foodItem= [
     category : 'paneer',
     rating : 4.3,
     price: 200,
-    img: 'khaju nut.jpg',
+    img: 'images/khaju nut.jpg',
     quantity: 1
 },
 {
@@ -376,7 +376,7 @@ const foodItem= [
     category : 'paneer',
     rating : 4.3,
     price: 230,
-    img: 'mutton 65.jpg',
+    img: 'images/mutton 65.jpg',
     quantity: 1
 },
 {
@@ -386,7 +386,7 @@ const foodItem= [
     category : 'paneer',
     rating : 4.3,
     price: 230,
-    img: 'mutton chilli.jpg',
+    img: 'images/mutton chilli.jpg',
     quantity: 1
 },
 {
@@ -396,7 +396,7 @@ const foodItem= [
     category : 'paneer',
     rating : 4.3,
     price: 230,
-    img: 'mutton manchuria.jpg',
+    img: 'images/mutton manchuria.jpg',
     quantity: 1
 },
 {
@@ -406,7 +406,7 @@ const foodItem= [
     category : 'paneer',
     rating : 4.3,
     price: 230,
-    img: 'prawn 65.jpg',
+    img: 'images/prawn 65.jpg',
     quantity: 1
 },
 {
@@ -416,7 +416,7 @@ const foodItem= [
     category : 'paneer',
     rating : 4.3,
     price: 180,
-    img: 'fish 65.jpg',
+    img: 'images/fish 65.jpg',
     quantity: 1
 },
 {
@@ -426,7 +426,7 @@ const foodItem= [
     category : 'paneer',
     rating : 4.3,
     price: 190,
-    img: 'schz.jpg',
+    img: 'images/schz.jpg',
     quantity: 1
 },
 {
@@ -436,7 +436,7 @@ const foodItem= [
     category : 'paneer',
     rating : 4.3,
     price: 200,
-    img: 'raja.jpg',
+    img: 'images/raja.jpg',
     quantity: 1
 },
 {
@@ -446,7 +446,7 @@ const foodItem= [
     category : 'paneer',
     rating : 4.3,
     price: 200,
-    img: 'hong.jpg',
+    img: 'images/hong.jpg',
     quantity: 1
 },
 {
@@ -456,7 +456,7 @@ const foodItem= [
     category : 'paneer',
     rating : 4.3,
     price: 200,
-    img: 'andhra.jpg',
+    img: 'images/andhra.jpg',
     quantity: 1
 },
 
@@ -466,7 +466,7 @@ const foodItem= [
     category : 'vegetable',
     rating : 4.3,
     price: 180,
-    img: 'Veg Biryani.jpg',
+    img: 'images/Veg Biryani.jpg',
     quantity: 1
 },
 {
@@ -475,7 +475,7 @@ const foodItem= [
     category : 'vegetable',
     rating : 4.3,
     price: 250,
-    img: 'Paneer Biryani.jpg',
+    img: 'images/Paneer Biryani.jpg',
     quantity: 1
 },
 
@@ -485,7 +485,7 @@ const foodItem= [
     category : 'vegetable',
     rating : 4.3,
     price: 170,
-    img: 'Mushroom biryani.jpg',
+    img: 'images/Mushroom biryani.jpg',
     quantity: 1
 },
 {
@@ -494,7 +494,7 @@ const foodItem= [
     category : 'vegetable',
     rating : 4.3,
     price: 170,
-    img: 'baby corn.jpg',
+    img: 'images/baby corn.jpg',
     quantity: 1
 },
 {
@@ -503,7 +503,7 @@ const foodItem= [
     category : 'vegetable',
     rating : 4.3,
     price: 200,
-    img: 'khaju.jpg',
+    img: 'images/khaju.jpg',
     quantity: 1
 },
 {
@@ -512,7 +512,7 @@ const foodItem= [
     category : 'vegetable',
     rating : 4.3,
     price: 150,
-    img: 'veg fried.jpg',
+    img: 'images/veg fried.jpg',
     quantity: 1
 },
 {
@@ -521,7 +521,7 @@ const foodItem= [
     category : 'vegetable',
     rating : 4.3,
     price: 150,
-    img: 'paneer.jpg',
+    img: 'images/paneer.jpg',
     quantity: 1
 },
 {
@@ -530,7 +530,7 @@ const foodItem= [
     category : 'vegetable',
     rating : 4.3,
     price: 150,
-    img: 'Mushroom fried rice.jpg',
+    img: 'images/Mushroom fried rice.jpg',
     quantity: 1
 },
 {
@@ -539,7 +539,7 @@ const foodItem= [
     category : 'vegetable',
     rating : 4.3,
     price: 150,
-    img: 'corn.jpg',
+    img: 'images/corn.jpg',
     quantity: 1
 },
 {
@@ -548,7 +548,7 @@ const foodItem= [
     category : 'vegetable',
     rating : 4.3,
     price: 180,
-    img: 'khaju fried rice.jpg',
+    img: 'images/khaju fried rice.jpg',
     quantity: 1
 },
 {
@@ -557,7 +557,7 @@ const foodItem= [
     category : 'vegetable',
     rating : 4.3,
     price: 80,
-    img: 'curd.jpg',
+    img: 'images/curd.jpg',
     quantity: 1
 },
 
@@ -567,7 +567,7 @@ const foodItem= [
     category : 'vegetable',
     rating : 4.3,
     price: 150,
-    img: 'schz fried.jpg',
+    img: 'images/schz fried.jpg',
     quantity: 1
 },
 {
@@ -576,7 +576,7 @@ const foodItem= [
     category : 'vegetable',
     rating : 4.3,
     price: 170,
-    img: 'ghee.jpg',
+    img: 'images/ghee.jpg',
     quantity: 1
 },
 {
@@ -585,7 +585,7 @@ const foodItem= [
     category : 'vegetable',
     rating : 4.3,
     price: 100,
-    img: 'jeera.jpg',
+    img: 'images/jeera.jpg',
     quantity: 1
 },
 {
@@ -594,7 +594,7 @@ const foodItem= [
     category : 'vegetable',
     rating : 4.3,
     price: 100,
-    img: 'tomato.jpg',
+    img: 'images/tomato.jpg',
     quantity: 1
 },
 {
@@ -603,7 +603,7 @@ const foodItem= [
     category : 'vegetable',
     rating : 4.3,
     price: 100,
-    img: 'Lemon.jpg',
+    img: 'images/Lemon.jpg',
     quantity: 1
 },
 
@@ -627,7 +627,7 @@ const foodItem= [
     category : 'chinese',
     rating : 4.3,
     price: 180,
-    img: 'paneer.jpg',
+    img: 'images/paneer.jpg',
     quantity: 1
 },
 {
@@ -636,7 +636,7 @@ const foodItem= [
     category : 'chinese',
     rating : 4.3,
     price: 180,
-    img: 'paneer Manchuria.jpg',
+    img: 'images/paneer Manchuria.jpg',
     quantity: 1
 },
 {
@@ -645,7 +645,7 @@ const foodItem= [
     category : 'chinese',
     rating : 4.3,
     price: 180,
-    img: 'paneer chilli.jpg',
+    img: 'images/paneer chilli.jpg',
     quantity: 1
 },
 {
@@ -654,7 +654,7 @@ const foodItem= [
     category : 'chinese',
     rating : 4.3,
     price: 170,
-    img: 'Mushroom 65.jpg',
+    img: 'images/Mushroom 65.jpg',
     quantity: 1
 },
 {
@@ -663,7 +663,7 @@ const foodItem= [
     category : 'chinese',
     rating : 4.3,
     price: 170,
-    img: 'mushroom chilli.jpg',
+    img: 'images/mushroom chilli.jpg',
     quantity: 1
 },
 {
@@ -672,7 +672,7 @@ const foodItem= [
     category : 'chinese',
     rating : 4.3,
     price: 170,
-    img: 'mushroom manchuria.jpg',
+    img: 'images/mushroom manchuria.jpg',
     quantity: 1
 },
 {
@@ -681,7 +681,7 @@ const foodItem= [
     category : 'chinese',
     rating : 4.3,
     price: 180,
-    img: 'Veg 65.jpg',
+    img: 'images/Veg 65.jpg',
     quantity: 1
 },
 {
@@ -690,7 +690,7 @@ const foodItem= [
     category : 'chinese',
     rating : 4.3,
     price: 180,
-    img: 'veg manchuria.jpg',
+    img: 'images/veg manchuria.jpg',
     quantity: 1
 },
 {
@@ -699,7 +699,7 @@ const foodItem= [
     category : 'chinese',
     rating : 4.3,
     price: 180,
-    img: 'veg chilli.jpg',
+    img: 'images/veg chilli.jpg',
     quantity: 1
 },
 {
@@ -708,7 +708,7 @@ const foodItem= [
     category : 'chinese',
     rating : 4.3,
     price: 180,
-    img: 'baby corn chilli.jpg',
+    img: 'images/baby corn chilli.jpg',
     quantity: 1
 },
 {
@@ -717,7 +717,7 @@ const foodItem= [
     category : 'chinese',
     rating : 4.3,
     price: 180,
-    img: 'baby65.jpg',
+    img: 'images/baby65.jpg',
     quantity: 1
 },
 {
@@ -726,7 +726,7 @@ const foodItem= [
     category : 'chinese',
     rating : 4.3,
     price: 180,
-    img: 'baby mancha.jpg',
+    img: 'images/baby mancha.jpg',
     quantity: 1
 },
 {
@@ -735,7 +735,7 @@ const foodItem= [
     category : 'chinese',
     rating : 4.3,
     price: 200,
-    img: 'khaju roast.jpg',
+    img: 'images/khaju roast.jpg',
     quantity: 1
 },
 {
@@ -744,7 +744,7 @@ const foodItem= [
     category : 'chinese',
     rating : 4.3,
     price: 200,
-    img: 'Veg banjara.jpg',
+    img: 'images/Veg banjara.jpg',
     quantity: 1
 },
 {
@@ -753,7 +753,7 @@ const foodItem= [
     category : 'chinese',
     rating : 4.3,
     price: 200,
-    img: 'veg boorani.jpg',
+    img: 'images/veg boorani.jpg',
     quantity: 1
 },
 {
@@ -762,7 +762,7 @@ const foodItem= [
     category : 'chinese',
     rating : 4.3,
     price: 160,
-    img: 'french fries.jpg',
+    img: 'images/french fries.jpg',
     quantity: 1
 },
 
@@ -792,7 +792,7 @@ const foodItem= [
     category : 'south indian',
     rating : 4.3,
     price: 170,
-    img: 'butter masala.jpg',
+    img: 'images/butter masala.jpg',
     quantity: 1
 },
 {
@@ -801,7 +801,7 @@ const foodItem= [
     category : 'south indian',
     rating : 4.3,
     price: 170,
-    img: 'paneer curry.jpg',
+    img: 'images/paneer curry.jpg',
     quantity: 1
 },
 {
@@ -810,7 +810,7 @@ const foodItem= [
     category : 'south indian',
     rating : 4.3,
     price: 180,
-    img: 'mushroom curry.jpg',
+    img: 'images/mushroom curry.jpg',
     quantity: 1
 },
 {
@@ -819,7 +819,7 @@ const foodItem= [
     category : 'south indian',
     rating : 4.3,
     price: 190,
-    img: 'Khaju paneer curry.jpg',
+    img: 'images/Khaju paneer curry.jpg',
     quantity: 1
 },
 {
@@ -828,7 +828,7 @@ const foodItem= [
     category : 'south indian',
     rating : 4.3,
     price: 160,
-    img: 'methi.jpg',
+    img: 'images/methi.jpg',
     quantity: 1
 },
 {
@@ -837,7 +837,7 @@ const foodItem= [
     category : 'south indian',
     rating : 4.3,
     price: 180,
-    img: 'aloo.jpg',
+    img: 'images/aloo.jpg',
     quantity: 1
 },
 {
@@ -846,7 +846,7 @@ const foodItem= [
     category : 'south indian',
     rating : 4.3,
     price: 180,
-    img: 'mix.jpg',
+    img: 'images/mix.jpg',
     quantity: 1
 },
 {
@@ -855,7 +855,7 @@ const foodItem= [
     category : 'south indian',
     rating : 4.3,
     price: 34,
-    img: 'chat.jpg',
+    img: 'images/chat.jpg',
     quantity: 1
 },
 {
@@ -864,7 +864,7 @@ const foodItem= [
     category : 'south indian',
     rating : 4.3,
     price: 170,
-    img: 'palak.jpg',
+    img: 'images/palak.jpg',
     quantity: 1
 },
 {
@@ -873,7 +873,7 @@ const foodItem= [
     category : 'south indian',
     rating : 4.3,
     price: 110,
-    img: 'tadak.jpg',
+    img: 'images/tadak.jpg',
     quantity: 1
 },
 {
@@ -882,7 +882,7 @@ const foodItem= [
     category : 'south indian',
     rating : 4.3,
     price: 170,
-    img: 'shhahi.jpg',
+    img: 'images/shhahi.jpg',
     quantity: 1
 },
 {
@@ -891,7 +891,7 @@ const foodItem= [
     category : 'south indian',
     rating : 4.3,
     price: 90,
-    img: 'green.jpg',
+    img: 'images/green.jpg',
     quantity: 1
 },
 {
@@ -900,7 +900,7 @@ const foodItem= [
     category : 'south indian',
     rating : 4.3,
     price: 70,
-    img: 'veg wanton soup.jpg',
+    img: 'images/veg wanton soup.jpg',
     quantity: 1
 },
 {
@@ -909,7 +909,7 @@ name: 'Sweet Corn Soup',
 category : 'south indian',
 rating : 4.3,
 price: 70,
-img: 'sweet.jpg',
+img: 'images/sweet.jpg',
 quantity: 1
 },
 {
@@ -918,7 +918,7 @@ name: 'Veg Manchow Soup',
 category : 'south indian',
 rating : 4.3,
 price: 70,
-img: 'manchow.jpg',
+img: 'images/manchow.jpg',
 quantity: 1
 },
 {
@@ -927,7 +927,7 @@ quantity: 1
     category : 'south indian',
     rating : 4.3,
     price: 70,
-    img: 'tomato soup.jpg',
+    img: 'images/tomato soup.jpg',
     quantity: 1
     },
 ]
