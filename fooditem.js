@@ -14,7 +14,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.3,
     price: 200,
-    img: 'images/Kabab.jpg',
+    img: 'images/kabab.jpg',
     quantity: 1
 },
 {
@@ -318,7 +318,7 @@ const foodItem= [
     category : 'paneer',
     rating : 4.3,
     price: 190,
-    img: 'images/Chicken chilli.jpg',
+    img: 'images/chicken chilli.jpg',
     quantity: 1
 },
 {
@@ -603,7 +603,7 @@ const foodItem= [
     category : 'vegetable',
     rating : 4.3,
     price: 100,
-    img: 'images/Lemon.jpg',
+    img: 'images/lemon.jpg',
     quantity: 1
 },
 
@@ -636,7 +636,7 @@ const foodItem= [
     category : 'chinese',
     rating : 4.3,
     price: 180,
-    img: 'images/paneer Manchuria.jpg',
+    img: 'images/paneer manchuria.jpg',
     quantity: 1
 },
 {
